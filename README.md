@@ -26,7 +26,7 @@ This repository contains the code, data, and presentation deck for a bank telema
    ```bash
    pip install -r requirements.txt
    ```
-3. Open and run the Jupyter Notebook in the notebooks/ directory.
+3. Open and run the Jupyter Notebook.
 
 ## Findings and Recommendations
 
