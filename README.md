@@ -18,7 +18,7 @@ This repository contains the code, data, and presentation deck for a bank telema
 
    ```bash
    git clone https://github.com/your-username/Bank_Telemarketing_Campaign.git
-   cd Bank_Telemarketing_Campaign
+   cd bank-telemarketing-campaign
    ```
 
 2. Install project dependencies:
