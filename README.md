@@ -7,9 +7,9 @@ This repository contains the code, data, and presentation deck for a bank telema
 
 ## Project Structure
 
-- **data/**: Contains the dataset file (`bank_telemarketing_data.csv`).
-- **notebooks/**: Contains the Jupyter Notebook (`Bank_Telemarketing_Campaign.ipynb`).
-- **presentations/**: Contains the presentation deck (`presentation_deck.pdf`).
+- **bank_telemarketing_data.csv** dataset file.
+- **Bank_Telemarketing_Campaign.ipynb** Jupyter Notebook.
+- **presentation_deck.pdf** presentation deck.
 - **requirements.txt**: Lists the project dependencies.
 
 ## Usage
